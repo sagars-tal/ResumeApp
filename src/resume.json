@@ -1,0 +1,120 @@
+{
+	"name": "Sagar Shende",
+	"email": "sagar.shende7@gmail.com",
+	"phone": "95-7997-4353",
+	"image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMvAAAAJDFjZDM1ZDdkLWZiYjctNDM0Ni1hMzYwLWE0M2Y3NGNkZGI2OQ.jpg",
+	"website": "https://remote.com/sagar-shende",
+	"twitter": "@sagar",
+	"twitterURL": "https://twitter.com/sagars",
+	"experiences" : [
+		{
+			"title" : "UI Developer",
+			"period": "April 2015 - Present",
+			"company": "Talentica Softwares India Pvt Ltd",
+			"location": "Pune",
+			"companyURL": "http://www.talentica.com/",
+			"details": "Working as UI Developer.Worked on different domains like Education, Payment Gateways, E-Commerce (Shopping Cart) Websites."
+		},
+		{
+			"title" : "SEO Specialist cum Web Developer",
+			"period": "Agust 2014 - March 2015",
+			"company": "Sourcekode Technologies",
+			"location": "Pune",
+			"companyURL": "https://www.sourcekode.in/",
+			"details": "Worked as Web Developer / SEO Analyst Worked on several small scale projects which include more 10-15 static websites.Did on-page optimization for multiple projects."
+		},
+		{
+			"title" : "SEO Analyst cum Web Developer",
+			"period": "July 2012 - March 2014",
+			"company": "Ternary Systems & Pvt. Ltd",
+			"location": "Nagpur",
+			"companyURL": "",
+			"details": "Worked as Web Developer / SEO Analyst Worked on in-house project called bookahotel.in that allowed users to book flights and hotels anywhere in India.Did on-page optimization for better Google search result/ranking."
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML5 & CSS3",
+			"percent": "98%"
+		},
+		{
+			"name": "Photoshop, Adobe XD & Sketch",
+			"percent": "95%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular 2/4 & React JS",
+			"percent": "50%"
+		}
+	],
+	"education": [
+		{
+			"degree": "B.E in Computer Science",
+			"university": "Nagpur University, MH, India",
+			"period": "2008 - 2012"
+		},
+		{
+			"degree": "HSSC",
+			"university": "State Board",
+			"period": "2006 - 2008"
+		},
+		{
+			"degree": "SSC",
+			"university": "State Board",
+			"period": "2005 - 2006"
+		}
+	],
+	"languages": [
+		{
+			"name":"English"
+		},
+		{
+			"name":"Hindi"
+		},
+		{
+			"name":"Marathi"
+		}
+	],
+	"interests": [
+		"Climbing",
+		"Snowboarding",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
