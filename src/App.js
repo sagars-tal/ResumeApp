@@ -6,6 +6,7 @@ import Project from './Project';
 import Skill from './Skill';
 import Education from './Education';
 import Language from './Language';
+import Poc from './Poc';
 //import Interest from './Interest';
 
 class App extends Component {
@@ -22,6 +23,13 @@ class App extends Component {
     let resultsArray = [];
     resume.projects.map((item, i) => {
       resultsArray.push(<Project item={item} key={i} />)
+    });
+    return resultsArray;
+  }
+  renderPocs(){
+    let resultsArray = [];
+    resume.pocs.map((item, i) => {
+      resultsArray.push(<Poc item={item} key={i} />)
     });
     return resultsArray;
   }
@@ -110,9 +118,9 @@ class App extends Component {
                 <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                 <div className="summary">
                     <p>About 4+ years of experience in UI development.
-Developed various Desktop and Mobile Responsive websites.
-Experienced with JIRA, GIT, BITBUCKET, SourceTree.
-</p>
+                        Developed various Desktop and Mobile Responsive websites.
+                        Experienced with JIRA, GIT, BITBUCKET, SourceTree.
+                    </p>
                 </div>         
             </section>
 
@@ -124,10 +132,14 @@ Experienced with JIRA, GIT, BITBUCKET, SourceTree.
 
             <section className="section projects-section">
                 <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
-                <div className="intro">
-                    <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
-                </div>
+              
                 {this.renderProjects()}
+            </section>
+
+            <section className="section projects-section">
+                <h2 className="section-title"><i className="fa fa-archive"></i>Own Pocs</h2>
+              
+                {this.renderPocs()}
             </section>
 
             <section className="skills-section section">

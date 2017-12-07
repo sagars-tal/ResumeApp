@@ -34,29 +34,33 @@
 	],
 	"projects": [
 		{
-			"name":"Velocity",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"AHA Life",
+			"url": "https://ahalife.com",
+			"detail": "AHA Life is an US based E-Commerce platform. Our role is to maintaine and take care of site along with exting feture updates and new feature integration as per requirment."
 		},
 		{
-			"name":"DevStudio",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Honoriety",
+			"url": "https://honoriety.com",
+			"detail": "Honoriety is an US based startup. As its an startup I get too many things to learn and Developing any product from scratch is always a next level experience. Technology side we have used Angular 2, HTML5, CSS3 for frontend development."
 		},
 		{
-			"name":"Tempo",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Fidelis",
+			"url": "https://fideliseducation.com/",
+			"detail": "Its an Online learning platform. Used HTML5, CSS3 for frontend and JAVA as a backend."
+		}
+	],
+	"pocs": [
+		{
+			"name":"News APP",
+			"url": "https://newsapp-6cfe8.firebaseapp.com/",
+			"detail": "As per name this is a fully responsive News App which displays the top ten news of the day for choosen media channel. I have used free news API to fetch relevant data & deployed it on firbase",
+			"techstack": "Angular 4 & Bulma CSS framework"
 		},
 		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Resume APP",
+			"url": "#",
+			"detail": "As per name this is a fully responsive News App which displays the top ten news of the day for choosen media channel. I have used free news API to fetch relevant data & deployed it on firbase",
+			"techstack": "React JS, HTML5 & CSS3"
 		}
 	],
 	"skills": [
@@ -106,10 +110,8 @@
 		}
 	],
 	"interests": [
-		"Climbing",
-		"Snowboarding",
-		"Cooking",
-		"Coding"
+		"Playing Cricket",
+		"Travelling"
 	]
 }
 
